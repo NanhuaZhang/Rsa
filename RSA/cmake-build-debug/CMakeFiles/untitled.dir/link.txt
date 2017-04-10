@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/untitled.dir/main.c.o CMakeFiles/untitled.dir/encrypt.c.o CMakeFiles/untitled.dir/key.c.o  -o untitled 

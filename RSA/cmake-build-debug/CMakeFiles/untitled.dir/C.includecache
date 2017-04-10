@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eric/CLionProjects/untitled/encrypt.c
+main.h
+/home/eric/CLionProjects/untitled/main.h
+
+/home/eric/CLionProjects/untitled/key.c
+main.h
+/home/eric/CLionProjects/untitled/main.h
+
+/home/eric/CLionProjects/untitled/main.c
+main.h
+/home/eric/CLionProjects/untitled/main.h
+
+/home/eric/CLionProjects/untitled/main.h
+stdio.h
+-
+stdlib.h
+-
+
